@@ -10,6 +10,7 @@ function App() {
         <div className="section-header">
           <span>헬로우 월드</span><br/>
           <talbe className="table">
+            s 
             <tr>
               <td>상자</td>
             </tr>
